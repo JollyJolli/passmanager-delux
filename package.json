@@ -1,0 +1,23 @@
+{
+  "name": "passmanager-delux",
+  "version": "0.0.5-beta",
+  "description": "A simple library for managing and generating passwords in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "passwords",
+    "password-manager",
+    "password-generator",
+    "encrypt",
+    "security",
+    "node",
+    "javascript"
+  ],
+  "author": "jolly",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  }
+}
